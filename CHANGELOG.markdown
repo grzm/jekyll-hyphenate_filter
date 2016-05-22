@@ -1,0 +1,1 @@
+# Jekyll::HyphenateFilter ChangeLog

@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+gem "nokogiri"
+gem "liquid"
+gem "text-hyphen"
+gem "test-unit"
